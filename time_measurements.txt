@@ -1,0 +1,3 @@
+With Only 5: 22 subsets (4-6) -> 60s / 1min
+With Top 5: 22 subsets (4-6) -> 158s / 2,65min
+With top 5: 22 subsets (4-6) ->106s / 1,77min
