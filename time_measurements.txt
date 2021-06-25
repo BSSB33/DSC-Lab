@@ -3,3 +3,4 @@ With top 5: 22 subsets (4-6) -> 158s / 2,65min
 With top 5: 22 subsets (4-6) ->106s / 1,77min
 With top 3: 99 subsets (3-7) -> 407s / 6,8min
 With top 3: 382 subsets (4-9) -> 1600s / 26,7min
+With top 3: 638 subsets (4-10) -> 6000s / 100min
